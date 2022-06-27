@@ -1,0 +1,34 @@
+1. Probability and 
+Random Processes 
+GEOFFREY R. GRIMMETT 
+Statistical Laboratory, University of Cambridge 
+and 
+DAVID R. STIRZAKER 
+Mathematical Institute, University of Oxford
+
+2. FE
+https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63
+
+3.=CRV
+
+https://brilliant.org/wiki/continuous-random-variables-definition/#:~:text=A%20continuous%20random%20variable%20is%20a%20function%20X%20X%20X,sense%20of%20having%20no%20gaps.
+
+4. DRV
+
+5. drv + crv
+http://www.stat.yale.edu/Courses/1997-98/101/ranvar.htm
+(Definitions taken from Valerie J. Easton and John H. McColl's Statistics Glossary v1.1)
+
+
+
+6. Displot
+https://seaborn.pydata.org/generated/seaborn.displot.html
+
+7 skewness 
+https://opentextbc.ca/introbusinessstatopenstax/chapter/skewness-and-the-mean-median-and-mode/#:~:text=To%20summarize%2C%20generally%20if%20the,is%20less%20than%20the%20mean.
+
+8. kurtosis 
+https://en.wikipedia.org/wiki/Kurtosis
+
+9.
+
